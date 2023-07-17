@@ -1,0 +1,29 @@
+{
+  "name": "nutbot-orchestrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ms": "^2.1.3",
+    "next": "^13.4.9",
+    "swr": "^2.2.0",
+    "ulid": "^2.3.0",
+    "yaml": "^2.3.1",
+    "zod": "^3.21.4",
+    "zod-to-json-schema": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/ms": "^0.7.31",
+    "@types/node": "20.4.1",
+    "@types/react": "18.2.14",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.25",
+    "tailwindcss": "^3.3.2",
+    "typescript": "5.1.6"
+  }
+}
